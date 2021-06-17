@@ -1,5 +1,15 @@
 # Adding config.py file.
+config.py
+__pycache__
+.ipynb_checkpoints
+
+# Adding api_keys.py file.
 api_keys.py
 
-API_practice.ipynb
-random_numbers.ipynb
+
+# OpenWeatherMap API Key
+weather_api_key = "b56281114813adcb6f2bf0da3df270fc"
+
+# Google API Key
+g_key = "AIzaSyCGYjfRedslBpmcTCj2uf_vjyDHniOkRNE"
+api_keys.py
